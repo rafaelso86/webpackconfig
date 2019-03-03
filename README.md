@@ -1,13 +1,12 @@
 # webpackconfig
-
 ![alt text](https://cdn-images-1.medium.com/max/1600/1*BxSBCuP7IRFz4pZCSVBxlQ.png)
 
+Esse repositório conta com uma configuração básica do webpack, para projetos iníciais.
+
 # Configuração
-Dentro do diretório do projeto rodar o comando npm install -y
-
-Clonar o repositório com o comando git clone https://github.com/rafaelso86/webpackconfig.git
-
-Rodar o comando npm install
+Clonar o repositório com o comando $ git clone https://github.com/rafaelso86/webpackconfig.git
+Dentro do diretório do projeto rodar o comando $ npm init -y
+Rodar o comando $ npm install para instalar as dependências do projeto
 
 ## Dependências do projeto
  - "cross-env": "^5.2.0",
@@ -23,3 +22,7 @@ Rodar o comando npm install
  - "node-sass": "^4.11.0",
  - "sass-loader": "^7.1.0",
  - "uglify-js": "^3.4.9"
+
+# Executando o projeto
+Em modo desenvolvedor executar $ npm start para executar o projeto em localhost:9000
+Para executar a versão do projeto em modo de produção. executar o comando $ npm run build. Assim você terá os arquivos css e js minificados na pasta public.
