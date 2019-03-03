@@ -1,0 +1,7 @@
+body{
+    background-color: #f3f3f3;
+    background-image: url('../images/webpack.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}
