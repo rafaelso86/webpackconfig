@@ -5,7 +5,9 @@ Esse repositório conta com uma configuração básica do webpack, para projetos
 
 # Configuração
 Clonar o repositório com o comando $ git clone https://github.com/rafaelso86/webpackconfig.git
+
 Dentro do diretório do projeto rodar o comando $ npm init -y
+
 Rodar o comando $ npm install para instalar as dependências do projeto
 
 ## Dependências do projeto
@@ -25,4 +27,5 @@ Rodar o comando $ npm install para instalar as dependências do projeto
 
 # Executando o projeto
 Em modo desenvolvedor executar $ npm start para executar o projeto em localhost:9000
+
 Para executar a versão do projeto em modo de produção. executar o comando $ npm run build. Assim você terá os arquivos css e js minificados na pasta public.
