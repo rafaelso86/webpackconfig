@@ -2,16 +2,14 @@
 
 ![alt text](https://cdn-images-1.medium.com/max/1600/1*BxSBCuP7IRFz4pZCSVBxlQ.png)
 
-Configuração básica do Webpack para HTML, CSS e JS
-
-#Configuração
+# Configuração
 Dentro do diretório do projeto rodar o comando npm install -y
 
 Clonar o repositório com o comando git clone https://github.com/rafaelso86/webpackconfig.git
 
 Rodar o comando npm install
 
-##Dependências do projeto
+## Dependências do projeto
  - "cross-env": "^5.2.0",
  - "css-loader": "^2.1.0",
  - "file-loader": "^3.0.1",
